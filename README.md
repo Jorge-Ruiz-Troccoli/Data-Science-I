@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Data Science II
+# 📊 Data Science I
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
@@ -19,7 +19,7 @@
 
 | Clase | Tema |
 |-------|------|
-| [Clase 001](./Clase%20001) | Python-SQL |
+| [Clase 001](./Clase%20001) | Estructuras y funciones en Python |
 | [Clase 002](./Clase%20002) | SQL primera parte |
 | [Clase 003](./Clase%20003) | SQL segunda parte |
 | [Clase 004](./Clase%20004) | Introdución a las APIs |
