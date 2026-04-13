@@ -10,7 +10,7 @@
 |---|---|
 | 📖 [El Libro de Python](https://ellibrodepython.com/) | Web muy recomendada con ejemplos claros de programación en Python |
 | 🌐 [W3Schools](https://www.w3schools.com/python/) | Ideal para aprender Python y otros lenguajes de programación |
-| 📄 [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) | Resumen de los métodos más usados en Python |
+| 📄 [Temas sugeridos para el proyecto](https://docs.google.com/document/d/18Lt-R2_rwDTXJf_gwYb_ioQ5aQyG9fT1/edit) | Resumen de los métodos más usados en Python |
 
 ---
 
