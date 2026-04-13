@@ -21,15 +21,15 @@
 | Clase | Tema |
 |-------|------|
 | [Clase 01](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase_001) | La Transformación Digital en la Industria 4.0 |
-| [Clase 02](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20002) | Fundamentos de Python |
-| [Clase 03](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20003) | NumPy y Pandas |
-| [Clase 04](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20004) | Manipulación de Datos: Pandas |
-| [Clase 05](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20005) | Visualizaciones Avanzadas en Data Science |
-| [Clase 06](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20006) | Estadística y Preprocesamiento |
-| [Clase 07](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20007) | Aplicaciones Prácticas de ML |
-| [Clase 08](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20008) | Aprendizaje Supervisado en Ciencia de Datos |
-| [Clase 09](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20009) | Aprendizaje No Supervisado |
-| [Clase 10](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20010) | Fundamentos de IA y Machine Learning |
+| [Clase 02](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase_002) | Fundamentos de Python |
+| [Clase 03](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase_003) | NumPy y Pandas |
+| [Clase 04](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase_004) | Manipulación de Datos: Pandas |
+| [Clase 05](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase_005) | Visualizaciones Avanzadas en Data Science |
+| [Clase 06](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase_006) | Estadística y Preprocesamiento |
+| [Clase 07](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase_007) | Aplicaciones Prácticas de ML |
+| [Clase 08](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase_008) | Aprendizaje Supervisado en Ciencia de Datos |
+| [Clase 09](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase_009) | Aprendizaje No Supervisado |
+| [Clase 10](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase_010) | Fundamentos de IA y Machine Learning |
 
 > ⚠️ *Los temas se profundizan durante las 2 horas de cada clase.*
 
