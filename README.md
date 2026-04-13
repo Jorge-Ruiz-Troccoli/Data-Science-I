@@ -9,7 +9,8 @@
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
 
-*Bienvenidos al apasionante mundo de los datos.*
+*Curso introductorio de Ciencia de Datos: explorá, transformá y visualizá datos,*
+*sentando las bases para tomar decisiones a partir de la información.*
 
 </div>
 
@@ -17,18 +18,18 @@
 
 ## 🗂️ Contenido del curso
 
-| Semana | Tema |
-|--------|------|
-| [Semana 01](./Clase%20001) | La Transformación Digital en la Industria 4.0 |
-| [Semana 02](./Clase%20002) | Fundamentos de Python |
-| [Semana 03](./Clase%20003) | NumPy y Pandas |
-| [Semana 04](./Clase%20004) | Manipulación de Datos: Pandas |
-| [Semana 05](./Clase%20005) | Visualizaciones Avanzadas en Data Science |
-| [Semana 06](./Clase%20006) | Estadística y Preprocesamiento |
-| [Semana 07](./Clase%20007) | Aplicaciones Prácticas de ML |
-| [Semana 08](./Clase%20008) | Aprendizaje Supervisado en Ciencia de Datos |
-| [Semana 09](./Clase%20009) | Aprendizaje No Supervisado |
-| [Semana 10](./Clase%20010) | Fundamentos de IA y Machine Learning |
+| Clase | Tema |
+|-------|------|
+| [Clase 01](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20001) | La Transformación Digital en la Industria 4.0 |
+| [Clase 02](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20002) | Fundamentos de Python |
+| [Clase 03](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20003) | NumPy y Pandas |
+| [Clase 04](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20004) | Manipulación de Datos: Pandas |
+| [Clase 05](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20005) | Visualizaciones Avanzadas en Data Science |
+| [Clase 06](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20006) | Estadística y Preprocesamiento |
+| [Clase 07](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20007) | Aplicaciones Prácticas de ML |
+| [Clase 08](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20008) | Aprendizaje Supervisado en Ciencia de Datos |
+| [Clase 09](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20009) | Aprendizaje No Supervisado |
+| [Clase 10](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20010) | Fundamentos de IA y Machine Learning |
 
 > ⚠️ *Los temas se profundizan durante las 2 horas de cada clase.*
 
@@ -37,7 +38,7 @@
 ## 🛠️ Tecnologías utilizadas
 
 - **Python** — lenguaje principal
-- **Jupyter Notebooks** — entorno de práctica
+- **Jupyter Notebooks / Google Colab** — entorno de práctica
 - **Pandas & NumPy** — manipulación y análisis de datos
 - **Matplotlib & Seaborn** — visualización
 - **Scikit-learn** — modelos de Machine Learning
@@ -50,7 +51,7 @@
 ```bash
 git clone https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I.git
 ```
-2. Navegá a la carpeta de la semana que corresponda.
+2. Navegá a la carpeta de la clase que corresponda.
 3. Abrí el notebook `.ipynb` con Jupyter Lab o Google Colab.
 4. ¡Practicá y experimentá con el código!
 
