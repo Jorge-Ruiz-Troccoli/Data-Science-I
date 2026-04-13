@@ -6,8 +6,8 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
 
 *Bienvenidos al apasionante mundo de los datos.*
 
@@ -17,24 +17,18 @@
 
 ## 🗂️ Contenido del curso
 
-| Clase | Tema |
-|-------|------|
-| [Clase 001](./Clase%20001) | Estructuras y funciones en Python |
-| [Clase 002](./Clase%20002) | SQL primera parte |
-| [Clase 003](./Clase%20003) | SQL segunda parte |
-| [Clase 004](./Clase%20004) | Introdución a las APIs |
-| [Clase 005](./Clase%20005) | Data Wrangling |
-| [Clase 006](./Clase%20006) | EDA |
-| [Clase 007](./Clase%20007) | Datos Espaciales |
-| [Clase 008](./Clase%20008) | Análisis Univariado |
-| [Clase 009](./Clase%20009) | Análisis Bivariado |
-| [Clase 010](./Clase%20010) | Clasificación-Árboles de decisión |
-| [Clase 011](./Clase%20011) | Clasificación - Random Forest |
-| [Clase 012](./Clase%20012) | Regresiones-primeros pasos |
-| [Clase 013](./Clase%20013) | Trabajando con datos desbalanceados |
-| [Clase 014](./Clase%20014) | Cross-validation y tuning de hiperparámetros |
-| [Clase 015](./Clase%20015) | Profundizando en regresiones |
-| [Clase 016](./Clase%20016) | Modelos de Boosting |
+| Semana | Tema |
+|--------|------|
+| [Semana 01](./Clase%20001) | La Transformación Digital en la Industria 4.0 |
+| [Semana 02](./Clase%20002) | Fundamentos de Python |
+| [Semana 03](./Clase%20003) | NumPy y Pandas |
+| [Semana 04](./Clase%20004) | Manipulación de Datos: Pandas |
+| [Semana 05](./Clase%20005) | Visualizaciones Avanzadas en Data Science |
+| [Semana 06](./Clase%20006) | Estadística y Preprocesamiento |
+| [Semana 07](./Clase%20007) | Aplicaciones Prácticas de ML |
+| [Semana 08](./Clase%20008) | Aprendizaje Supervisado en Ciencia de Datos |
+| [Semana 09](./Clase%20009) | Aprendizaje No Supervisado |
+| [Semana 10](./Clase%20010) | Fundamentos de IA y Machine Learning |
 
 > ⚠️ *Los temas se profundizan durante las 2 horas de cada clase.*
 
@@ -54,17 +48,16 @@
 
 1. Cloná el repositorio:
 ```bash
-   git clone https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I.git
+git clone https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I.git
 ```
-2. Navegá a la carpeta de la clase que corresponda.
-3. Abrí el notebook `.ipynb` con Jupyter Lab o Jupyter Notebook.
+2. Navegá a la carpeta de la semana que corresponda.
+3. Abrí el notebook `.ipynb` con Jupyter Lab o Google Colab.
 4. ¡Practicá y experimentá con el código!
 
 ---
 
 ## 🧔 Autor: *Jorge Ruiz Troccoli*
 
-  
 [![GitHub](https://img.shields.io/badge/GitHub-Jorge--Ruiz--Troccoli-181717?style=flat&logo=github)](https://github.com/Jorge-Ruiz-Troccoli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge%20Ruiz%20Troccoli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-1989/)
 
