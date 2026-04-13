@@ -20,7 +20,7 @@
 
 | Clase | Tema |
 |-------|------|
-| [Clase 01](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20001) | La Transformación Digital en la Industria 4.0 |
+| [Clase_01](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20001) | La Transformación Digital en la Industria 4.0 |
 | [Clase 02](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20002) | Fundamentos de Python |
 | [Clase 03](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20003) | NumPy y Pandas |
 | [Clase 04](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase%20004) | Manipulación de Datos: Pandas |
