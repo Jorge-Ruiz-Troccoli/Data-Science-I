@@ -1,4 +1,3 @@
-# 📘 Clase 01 — Introducción a Python
 
 ¡Hola a todos! Les comparto los temas sugeridos, junto con material complementario para acompañarlos durante toda la cursada (¡y también les va a ser útil en su día a día una vez que terminen el curso!).
 
