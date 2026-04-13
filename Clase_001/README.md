@@ -1,6 +1,6 @@
 # 📘 Clase 01 — Introducción a Python y Ciencia de Datos
 
-¡Hola a todos! Les comparto los temas sugeridos, junto con material complementario para acompañarlos durante toda la cursada (¡y también les va a ser útil en su día a día una vez que terminen el curso!).
+¡Hola a todos! Les comparto los temas sugeridos, junto con material complementario para acompañarlos durante toda la cursada (también les va a ser útil en su día a día una vez que terminen el curso).
 
 
 
