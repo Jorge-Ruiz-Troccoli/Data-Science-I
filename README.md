@@ -32,7 +32,20 @@
 | [Clase 10](https://github.com/Jorge-Ruiz-Troccoli/Data-Science-I/tree/main/Clase_010) | Fundamentos de IA y Machine Learning |
 
 > ⚠️ *Los temas se profundizan durante las 2 horas de cada clase.*
+---
 
+
+## 🚀  Cuestionarios
+
+
+| 📝 Cuestionario autocorregido Python Básico 1 | [Abrir](https://script.google.com/macros/s/AKfycbyWwWd6ohw0ADcfurQ8-f9HM-H_bcJ_SDKkYPM0jYQMo3ck8QmVlr7ubVYswFBiFNkupg/exec) |
+
+| 📝 Cuestionario autocorregido Python Básico 2 | [Abrir](https://script.google.com/macros/s/AKfycby0E2uPCIBDAkkD3Z6erTeu0QwefH57Ojihp0AXVrBUYuC6ZJWM9PA2syOz7s87bnRXvQ/exec) |
+
+
+
+
+---
 ---
 
 ## 🛠️ Tecnologías utilizadas
